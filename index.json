@@ -1,0 +1,11 @@
+{
+  "org": "pyecharts",
+  "repo": "snapshot-selenium",
+  "versions": [
+    {
+      "commit": "19b281ce89062eac35767ce7e97be570dbde3635",
+      "tag": "",
+      "parsed_at": "2026-10-28T13:26:12.024588+00:00"
+    }
+  ]
+}
